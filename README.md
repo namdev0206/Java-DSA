@@ -1,0 +1,2 @@
+# Java-DSA
+ This repository features a collection of Java implementations for fundamental data structures and algorithms. It is designed to support a range of activities including coding interview preparation, studying computer science principles, and enhancing problem-solving skills. The repository offers a comprehensive set of examples and exercises to facilitate learning and practical application of key concepts.
